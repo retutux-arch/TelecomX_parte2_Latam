@@ -59,7 +59,7 @@ Estrategias de balanceo evaluadas: Unbalanced, Undersampling, SMOTE y **SMOTEENN
 
 Este proyecto fue desarrollado por:
 
-* **Nombre:** [Tu Nombre Completo]
+* **Nombre:** [Ariel Antonio Lobos Nuñez
 * **LinkedIn:** [https://www.linkedin.com/in/ariel-lobos/](https://www.linkedin.com/in/ariel-lobos/)
 * **GitHub:** [https://github.com/retutux-arch](https://github.com/retutux-arch)
 * **Email:** [retutux@gmail.com]
